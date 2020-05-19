@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7733a730-1c62-432e-a053-98640f1e3508/resourceGroups/Skole/providers/Microsoft.Web/sites/GrowProxy"
+}

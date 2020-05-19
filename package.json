@@ -1,0 +1,27 @@
+{
+  "name": "simple-api-proxy",
+  "version": "1.0.0",
+  "description": "A simple web api proxy.",
+  "scripts": {
+    "start": "node api/api.js"
+  },
+  "author": "Nope",
+  "license": "SUCC",
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "colors": "^1.1.2",
+    "express": "4.13.4",
+    "minimist": "^1.2.0",
+    "request": "2.69.0"
+  },
+  "keywords:": [
+    "web",
+    "api",
+    "proxy",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougrday/simple-api-proxy"
+  }
+}
